@@ -57,9 +57,9 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>su.nightexpress.nightcore</groupId>
+            <groupId>com.github.GKPixelNew</groupId>
             <artifactId>nightcore</artifactId>
-            <version>2.5.2</version>
+            <version>6795c00576</version>
         </dependency>
         <dependency>
             <groupId>me.clip</groupId>
